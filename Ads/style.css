@@ -1,0 +1,45 @@
+nav {
+ display : flex ;
+ justify-content: flex-end ;
+ font-size: 0.9em;
+ font-family: sans-serif;
+}
+
+
+
+nav a {
+padding : 0.5em lem;
+border-radius: 5px;
+text-decoration: none;
+color: #5badf0;
+}
+
+nav a :last-child {
+  background-color: #5badf0;
+  color: white;
+
+}
+
+header {
+text-align: center;
+margin-top: 6em;
+
+}
+
+img {
+  border-radius: 50%;
+}
+
+h1 {
+font-size : 3em;
+
+}
+h2 {
+color: #999;
+font weight: normal;
+}
+em {
+color: #EB29BC;
+font-style: normal;
+
+}
