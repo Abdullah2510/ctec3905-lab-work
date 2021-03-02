@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  background-color: #eb0;
+}
+
+
+#menuToggler{
+font-size: 3em;
+text-align: right;
+line-height: 1em;
+padding: 0 1rem;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+ }
+ nav a{
+   
+text-decoration: none;
+padding: 0.5 em 1em;
+ }
